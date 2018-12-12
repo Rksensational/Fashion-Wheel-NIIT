@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="&amp;#8377; 1100" key="selection"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="$26"/>
+			<item value=".about-w3ls-row"/>
+			<item value=".about-w3ls"/>
+			<item value=".about-"/>
+			<item value=".about"/>
+			<item value="about"/>
+			<item value="p"/>
+			<item value="P"/>
+			<item value="&lt;em class=&quot;cd-price&quot;&gt;$235&lt;/em&gt;"/>
+			<item value="cd-price"/>
+			<item value="price"/>
+			<item value="prize"/>
+			<item value="&lt;div class=&quot;cd-item-info&quot;&gt;"/>
+			<item value="cd-pri"/>
+			<item value="single"/>
+		</list>
+		<list key="replacehistory">
+			<item value="&amp;#8377; 1100"/>
+			<item value="&lt;!--&gt;"/>
+			<item value="."/>
+			<item value=""/>
+			<item value="&lt;p class=&quot;card-text font-weight-bold&quot; style=&quot;font-size:12px;&quot;&gt;Mountains&lt;/p&gt;"/>
+			<item value="${pageContext.request.contextPath}/resources/images"/>
+			<item value="${pageContext.request.contextPath}/resources/images/"/>
+			<item value="PRDCB7EC773D0.jpeg"/>
+			<item value=" "/>
+			<item value="Pcost"/>
+			<item value="Pname"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1360" key="DIALOG_X_ORIGIN"/>
+		<item value="219" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

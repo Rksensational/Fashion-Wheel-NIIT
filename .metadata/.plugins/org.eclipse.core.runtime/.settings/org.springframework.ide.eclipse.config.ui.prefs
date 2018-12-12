@@ -1,0 +1,10 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/WEB-INF/root-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/WEB-INF/security-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/WEB-INF/servlet-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/WEB-INF/view/webflow/register/signup-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/views/flows/cart/checkout/checkout-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/views/flows/checkout/checkout-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/views/flows/register/signup-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/views/flows/webflow/register/signup-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/FashionWheel/src/main/webapp/views/webflow/register/signup-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

@@ -1,0 +1,79 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@taglib prefix="spring" uri="http://www.springframework.org/tags"%>
+
+<spring:url var="css" value="/resources/css" />
+<spring:url var="js" value="/resources/js" />
+<spring:url var="images" value="/resources/images" />
+
+<c:set var="contextRoot" value="${pageContext.request.contextPath}" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+
+<style>
+
+/*-- Model-Slider --*/
+
+.film_roll_wrapper img {
+	border: 10px solid #FFF;
+	box-shadow: 7px 7px 15px #777;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+@media (max-width: 580px) {
+	.film_roll_wrapper img {
+		margin: 0;
+		box-shadow: none;
+	}
+}
+
+.film_roll_wrapper .active img {
+	border: 10px solid #c41228;
+}
+
+.film_roll_container {
+	position: relative;
+}
+
+.film_roll_pager a, a.film_roll_prev, a.film_roll_next {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+
+.film_roll_pager {
+	display: none;
+}
+
+/*-- //Model-Slider --*/
+
+
+</style>
+
+
+</head>
+<body>
+
+	<!-- Model-Slider -->
+	<div class="agilemodel-slider">
+		<div id='film_roll_1'>
+			<div><img src="images/model_slide-1.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-2.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-3.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-4.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-5.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-6.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-7.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-8.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-9.jpg" alt="Groovy Apparel"></div>
+			<div><img src="images/model_slide-10.jpg" alt="Groovy Apparel"></div>
+		</div>
+	</div>
+	<!-- //Model-Slider -->
+</body>
+</html>
